@@ -1,0 +1,4 @@
+rice
+dal
+aloo
+coconut
